@@ -1,0 +1,219 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: MethodManipulationDocs
+  name: MethodManipulationDocs
+  href: api/MethodManipulationDocs.html
+  commentId: N:MethodManipulationDocs
+  fullName: MethodManipulationDocs
+  nameWithType: MethodManipulationDocs
+- uid: MethodManipulationDocs.HookedMethod
+  name: HookedMethod
+  href: api/MethodManipulationDocs.HookedMethod.html
+  commentId: T:MethodManipulationDocs.HookedMethod
+  fullName: MethodManipulationDocs.HookedMethod
+  nameWithType: HookedMethod
+- uid: MethodManipulationDocs.HookedMethod.Detour
+  name: HookedMethod.Detour
+  href: api/MethodManipulationDocs.HookedMethod.Detour.html
+  commentId: T:MethodManipulationDocs.HookedMethod.Detour
+  fullName: MethodManipulationDocs.HookedMethod.Detour
+  nameWithType: HookedMethod.Detour
+- uid: MethodManipulationDocs.HookedMethod.FakedParameters
+  name: FakedParameters
+  href: api/MethodManipulationDocs.HookedMethod.html#MethodManipulationDocs_HookedMethod_FakedParameters
+  commentId: F:MethodManipulationDocs.HookedMethod.FakedParameters
+  fullName: MethodManipulationDocs.HookedMethod.FakedParameters
+  nameWithType: HookedMethod.FakedParameters
+- uid: MethodManipulationDocs.HookedMethod.Hook(MethodManipulationDocs.MethodInfoWithDef,MethodManipulationDocs.HookedMethod.Detour)
+  name: Hook(MethodInfoWithDef, HookedMethod.Detour)
+  href: api/MethodManipulationDocs.HookedMethod.html#MethodManipulationDocs_HookedMethod_Hook_MethodManipulationDocs_MethodInfoWithDef_MethodManipulationDocs_HookedMethod_Detour_
+  commentId: M:MethodManipulationDocs.HookedMethod.Hook(MethodManipulationDocs.MethodInfoWithDef,MethodManipulationDocs.HookedMethod.Detour)
+  fullName: MethodManipulationDocs.HookedMethod.Hook(MethodManipulationDocs.MethodInfoWithDef, MethodManipulationDocs.HookedMethod.Detour)
+  nameWithType: HookedMethod.Hook(MethodInfoWithDef, HookedMethod.Detour)
+- uid: MethodManipulationDocs.HookedMethod.Hook*
+  name: Hook
+  href: api/MethodManipulationDocs.HookedMethod.html#MethodManipulationDocs_HookedMethod_Hook_
+  commentId: Overload:MethodManipulationDocs.HookedMethod.Hook
+  fullName: MethodManipulationDocs.HookedMethod.Hook
+  nameWithType: HookedMethod.Hook
+- uid: MethodManipulationDocs.HookedMethod.OriginalMethod
+  name: HookedMethod.OriginalMethod
+  href: api/MethodManipulationDocs.HookedMethod.OriginalMethod.html
+  commentId: T:MethodManipulationDocs.HookedMethod.OriginalMethod
+  fullName: MethodManipulationDocs.HookedMethod.OriginalMethod
+  nameWithType: HookedMethod.OriginalMethod
+- uid: MethodManipulationDocs.HookedMethod.OriginalMethod.As*
+  name: As
+  href: api/MethodManipulationDocs.HookedMethod.OriginalMethod.html#MethodManipulationDocs_HookedMethod_OriginalMethod_As_
+  commentId: Overload:MethodManipulationDocs.HookedMethod.OriginalMethod.As
+  fullName: MethodManipulationDocs.HookedMethod.OriginalMethod.As
+  nameWithType: HookedMethod.OriginalMethod.As
+- uid: MethodManipulationDocs.HookedMethod.OriginalMethod.As``1(System.Object[])
+  name: As<R>(Object[])
+  href: api/MethodManipulationDocs.HookedMethod.OriginalMethod.html#MethodManipulationDocs_HookedMethod_OriginalMethod_As__1_System_Object___
+  commentId: M:MethodManipulationDocs.HookedMethod.OriginalMethod.As``1(System.Object[])
+  name.vb: As(Of R)(Object())
+  fullName: MethodManipulationDocs.HookedMethod.OriginalMethod.As<R>(System.Object[])
+  fullName.vb: MethodManipulationDocs.HookedMethod.OriginalMethod.As(Of R)(System.Object())
+  nameWithType: HookedMethod.OriginalMethod.As<R>(Object[])
+  nameWithType.vb: HookedMethod.OriginalMethod.As(Of R)(Object())
+- uid: MethodManipulationDocs.HookedMethod.Parameters
+  name: HookedMethod.Parameters
+  href: api/MethodManipulationDocs.HookedMethod.Parameters.html
+  commentId: T:MethodManipulationDocs.HookedMethod.Parameters
+  fullName: MethodManipulationDocs.HookedMethod.Parameters
+  nameWithType: HookedMethod.Parameters
+- uid: MethodManipulationDocs.HookedMethod.Parameters.Array
+  name: Array
+  href: api/MethodManipulationDocs.HookedMethod.Parameters.html#MethodManipulationDocs_HookedMethod_Parameters_Array
+  commentId: P:MethodManipulationDocs.HookedMethod.Parameters.Array
+  fullName: MethodManipulationDocs.HookedMethod.Parameters.Array
+  nameWithType: HookedMethod.Parameters.Array
+- uid: MethodManipulationDocs.HookedMethod.Parameters.Array*
+  name: Array
+  href: api/MethodManipulationDocs.HookedMethod.Parameters.html#MethodManipulationDocs_HookedMethod_Parameters_Array_
+  commentId: Overload:MethodManipulationDocs.HookedMethod.Parameters.Array
+  fullName: MethodManipulationDocs.HookedMethod.Parameters.Array
+  nameWithType: HookedMethod.Parameters.Array
+- uid: MethodManipulationDocs.HookedMethod.Parameters.As*
+  name: As
+  href: api/MethodManipulationDocs.HookedMethod.Parameters.html#MethodManipulationDocs_HookedMethod_Parameters_As_
+  commentId: Overload:MethodManipulationDocs.HookedMethod.Parameters.As
+  fullName: MethodManipulationDocs.HookedMethod.Parameters.As
+  nameWithType: HookedMethod.Parameters.As
+- uid: MethodManipulationDocs.HookedMethod.Parameters.As``1
+  name: As<T1>()
+  href: api/MethodManipulationDocs.HookedMethod.Parameters.html#MethodManipulationDocs_HookedMethod_Parameters_As__1
+  commentId: M:MethodManipulationDocs.HookedMethod.Parameters.As``1
+  name.vb: As(Of T1)()
+  fullName: MethodManipulationDocs.HookedMethod.Parameters.As<T1>()
+  fullName.vb: MethodManipulationDocs.HookedMethod.Parameters.As(Of T1)()
+  nameWithType: HookedMethod.Parameters.As<T1>()
+  nameWithType.vb: HookedMethod.Parameters.As(Of T1)()
+- uid: MethodManipulationDocs.MethodAnalyzer
+  name: MethodAnalyzer
+  href: api/MethodManipulationDocs.MethodAnalyzer.html
+  commentId: T:MethodManipulationDocs.MethodAnalyzer
+  fullName: MethodManipulationDocs.MethodAnalyzer
+  nameWithType: MethodAnalyzer
+- uid: MethodManipulationDocs.MethodAnalyzer.CelesteAssemblyDefinition
+  name: CelesteAssemblyDefinition
+  href: api/MethodManipulationDocs.MethodAnalyzer.html#MethodManipulationDocs_MethodAnalyzer_CelesteAssemblyDefinition
+  commentId: F:MethodManipulationDocs.MethodAnalyzer.CelesteAssemblyDefinition
+  fullName: MethodManipulationDocs.MethodAnalyzer.CelesteAssemblyDefinition
+  nameWithType: MethodAnalyzer.CelesteAssemblyDefinition
+- uid: MethodManipulationDocs.MethodAnalyzer.MethodCalls(Mono.Cecil.MethodDefinition)
+  name: MethodCalls(MethodDefinition)
+  href: api/MethodManipulationDocs.MethodAnalyzer.html#MethodManipulationDocs_MethodAnalyzer_MethodCalls_Mono_Cecil_MethodDefinition_
+  commentId: M:MethodManipulationDocs.MethodAnalyzer.MethodCalls(Mono.Cecil.MethodDefinition)
+  fullName: MethodManipulationDocs.MethodAnalyzer.MethodCalls(Mono.Cecil.MethodDefinition)
+  nameWithType: MethodAnalyzer.MethodCalls(MethodDefinition)
+- uid: MethodManipulationDocs.MethodAnalyzer.MethodCalls*
+  name: MethodCalls
+  href: api/MethodManipulationDocs.MethodAnalyzer.html#MethodManipulationDocs_MethodAnalyzer_MethodCalls_
+  commentId: Overload:MethodManipulationDocs.MethodAnalyzer.MethodCalls
+  fullName: MethodManipulationDocs.MethodAnalyzer.MethodCalls
+  nameWithType: MethodAnalyzer.MethodCalls
+- uid: MethodManipulationDocs.MethodInfoWithDef
+  name: MethodInfoWithDef
+  href: api/MethodManipulationDocs.MethodInfoWithDef.html
+  commentId: T:MethodManipulationDocs.MethodInfoWithDef
+  fullName: MethodManipulationDocs.MethodInfoWithDef
+  nameWithType: MethodInfoWithDef
+- uid: MethodManipulationDocs.MethodInfoWithDef.#ctor(System.Reflection.MethodInfo,Mono.Cecil.MethodDefinition)
+  name: MethodInfoWithDef(MethodInfo, MethodDefinition)
+  href: api/MethodManipulationDocs.MethodInfoWithDef.html#MethodManipulationDocs_MethodInfoWithDef__ctor_System_Reflection_MethodInfo_Mono_Cecil_MethodDefinition_
+  commentId: M:MethodManipulationDocs.MethodInfoWithDef.#ctor(System.Reflection.MethodInfo,Mono.Cecil.MethodDefinition)
+  fullName: MethodManipulationDocs.MethodInfoWithDef.MethodInfoWithDef(System.Reflection.MethodInfo, Mono.Cecil.MethodDefinition)
+  nameWithType: MethodInfoWithDef.MethodInfoWithDef(MethodInfo, MethodDefinition)
+- uid: MethodManipulationDocs.MethodInfoWithDef.#ctor*
+  name: MethodInfoWithDef
+  href: api/MethodManipulationDocs.MethodInfoWithDef.html#MethodManipulationDocs_MethodInfoWithDef__ctor_
+  commentId: Overload:MethodManipulationDocs.MethodInfoWithDef.#ctor
+  fullName: MethodManipulationDocs.MethodInfoWithDef.MethodInfoWithDef
+  nameWithType: MethodInfoWithDef.MethodInfoWithDef
+- uid: MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException
+  name: MethodInfoWithDef.CelesteResolveException
+  href: api/MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException.html
+  commentId: T:MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException
+  fullName: MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException
+  nameWithType: MethodInfoWithDef.CelesteResolveException
+- uid: MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException.#ctor
+  name: CelesteResolveException()
+  href: api/MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException.html#MethodManipulationDocs_MethodInfoWithDef_CelesteResolveException__ctor
+  commentId: M:MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException.#ctor
+  fullName: MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException.CelesteResolveException()
+  nameWithType: MethodInfoWithDef.CelesteResolveException.CelesteResolveException()
+- uid: MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
+  name: CelesteResolveException(SerializationInfo, StreamingContext)
+  href: api/MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException.html#MethodManipulationDocs_MethodInfoWithDef_CelesteResolveException__ctor_System_Runtime_Serialization_SerializationInfo_System_Runtime_Serialization_StreamingContext_
+  commentId: M:MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
+  fullName: MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException.CelesteResolveException(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
+  nameWithType: MethodInfoWithDef.CelesteResolveException.CelesteResolveException(SerializationInfo, StreamingContext)
+- uid: MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException.#ctor(System.String)
+  name: CelesteResolveException(String)
+  href: api/MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException.html#MethodManipulationDocs_MethodInfoWithDef_CelesteResolveException__ctor_System_String_
+  commentId: M:MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException.#ctor(System.String)
+  fullName: MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException.CelesteResolveException(System.String)
+  nameWithType: MethodInfoWithDef.CelesteResolveException.CelesteResolveException(String)
+- uid: MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException.#ctor(System.String,System.Exception)
+  name: CelesteResolveException(String, Exception)
+  href: api/MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException.html#MethodManipulationDocs_MethodInfoWithDef_CelesteResolveException__ctor_System_String_System_Exception_
+  commentId: M:MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException.#ctor(System.String,System.Exception)
+  fullName: MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException.CelesteResolveException(System.String, System.Exception)
+  nameWithType: MethodInfoWithDef.CelesteResolveException.CelesteResolveException(String, Exception)
+- uid: MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException.#ctor*
+  name: CelesteResolveException
+  href: api/MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException.html#MethodManipulationDocs_MethodInfoWithDef_CelesteResolveException__ctor_
+  commentId: Overload:MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException.#ctor
+  fullName: MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException.CelesteResolveException
+  nameWithType: MethodInfoWithDef.CelesteResolveException.CelesteResolveException
+- uid: MethodManipulationDocs.MethodInfoWithDef.CreateAndResolveCelesteDef(System.Reflection.MethodInfo)
+  name: CreateAndResolveCelesteDef(MethodInfo)
+  href: api/MethodManipulationDocs.MethodInfoWithDef.html#MethodManipulationDocs_MethodInfoWithDef_CreateAndResolveCelesteDef_System_Reflection_MethodInfo_
+  commentId: M:MethodManipulationDocs.MethodInfoWithDef.CreateAndResolveCelesteDef(System.Reflection.MethodInfo)
+  fullName: MethodManipulationDocs.MethodInfoWithDef.CreateAndResolveCelesteDef(System.Reflection.MethodInfo)
+  nameWithType: MethodInfoWithDef.CreateAndResolveCelesteDef(MethodInfo)
+- uid: MethodManipulationDocs.MethodInfoWithDef.CreateAndResolveCelesteDef*
+  name: CreateAndResolveCelesteDef
+  href: api/MethodManipulationDocs.MethodInfoWithDef.html#MethodManipulationDocs_MethodInfoWithDef_CreateAndResolveCelesteDef_
+  commentId: Overload:MethodManipulationDocs.MethodInfoWithDef.CreateAndResolveCelesteDef
+  fullName: MethodManipulationDocs.MethodInfoWithDef.CreateAndResolveCelesteDef
+  nameWithType: MethodInfoWithDef.CreateAndResolveCelesteDef
+- uid: MethodManipulationDocs.MethodInfoWithDef.op_Implicit(MethodManipulationDocs.MethodInfoWithDef)~Mono.Cecil.MethodDefinition
+  name: Implicit(MethodInfoWithDef to MethodDefinition)
+  href: api/MethodManipulationDocs.MethodInfoWithDef.html#MethodManipulationDocs_MethodInfoWithDef_op_Implicit_MethodManipulationDocs_MethodInfoWithDef__Mono_Cecil_MethodDefinition
+  commentId: M:MethodManipulationDocs.MethodInfoWithDef.op_Implicit(MethodManipulationDocs.MethodInfoWithDef)~Mono.Cecil.MethodDefinition
+  name.vb: Widening(MethodInfoWithDef to MethodDefinition)
+  fullName: MethodManipulationDocs.MethodInfoWithDef.Implicit(MethodManipulationDocs.MethodInfoWithDef to Mono.Cecil.MethodDefinition)
+  fullName.vb: MethodManipulationDocs.MethodInfoWithDef.Widening(MethodManipulationDocs.MethodInfoWithDef to Mono.Cecil.MethodDefinition)
+  nameWithType: MethodInfoWithDef.Implicit(MethodInfoWithDef to MethodDefinition)
+  nameWithType.vb: MethodInfoWithDef.Widening(MethodInfoWithDef to MethodDefinition)
+- uid: MethodManipulationDocs.MethodInfoWithDef.op_Implicit(MethodManipulationDocs.MethodInfoWithDef)~System.Reflection.MethodInfo
+  name: Implicit(MethodInfoWithDef to MethodInfo)
+  href: api/MethodManipulationDocs.MethodInfoWithDef.html#MethodManipulationDocs_MethodInfoWithDef_op_Implicit_MethodManipulationDocs_MethodInfoWithDef__System_Reflection_MethodInfo
+  commentId: M:MethodManipulationDocs.MethodInfoWithDef.op_Implicit(MethodManipulationDocs.MethodInfoWithDef)~System.Reflection.MethodInfo
+  name.vb: Widening(MethodInfoWithDef to MethodInfo)
+  fullName: MethodManipulationDocs.MethodInfoWithDef.Implicit(MethodManipulationDocs.MethodInfoWithDef to System.Reflection.MethodInfo)
+  fullName.vb: MethodManipulationDocs.MethodInfoWithDef.Widening(MethodManipulationDocs.MethodInfoWithDef to System.Reflection.MethodInfo)
+  nameWithType: MethodInfoWithDef.Implicit(MethodInfoWithDef to MethodInfo)
+  nameWithType.vb: MethodInfoWithDef.Widening(MethodInfoWithDef to MethodInfo)
+- uid: MethodManipulationDocs.MethodInfoWithDef.op_Implicit(System.Reflection.MethodInfo)~MethodManipulationDocs.MethodInfoWithDef
+  name: Implicit(MethodInfo to MethodInfoWithDef)
+  href: api/MethodManipulationDocs.MethodInfoWithDef.html#MethodManipulationDocs_MethodInfoWithDef_op_Implicit_System_Reflection_MethodInfo__MethodManipulationDocs_MethodInfoWithDef
+  commentId: M:MethodManipulationDocs.MethodInfoWithDef.op_Implicit(System.Reflection.MethodInfo)~MethodManipulationDocs.MethodInfoWithDef
+  name.vb: Widening(MethodInfo to MethodInfoWithDef)
+  fullName: MethodManipulationDocs.MethodInfoWithDef.Implicit(System.Reflection.MethodInfo to MethodManipulationDocs.MethodInfoWithDef)
+  fullName.vb: MethodManipulationDocs.MethodInfoWithDef.Widening(System.Reflection.MethodInfo to MethodManipulationDocs.MethodInfoWithDef)
+  nameWithType: MethodInfoWithDef.Implicit(MethodInfo to MethodInfoWithDef)
+  nameWithType.vb: MethodInfoWithDef.Widening(MethodInfo to MethodInfoWithDef)
+- uid: MethodManipulationDocs.MethodInfoWithDef.op_Implicit*
+  name: Implicit
+  href: api/MethodManipulationDocs.MethodInfoWithDef.html#MethodManipulationDocs_MethodInfoWithDef_op_Implicit_
+  commentId: Overload:MethodManipulationDocs.MethodInfoWithDef.op_Implicit
+  name.vb: Widening
+  fullName: MethodManipulationDocs.MethodInfoWithDef.Implicit
+  fullName.vb: MethodManipulationDocs.MethodInfoWithDef.Widening
+  nameWithType: MethodInfoWithDef.Implicit
+  nameWithType.vb: MethodInfoWithDef.Widening

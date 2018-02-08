@@ -1,0 +1,212 @@
+{
+  "homepages": [],
+  "source_base_path": "c:/users/leo60228/documents/visual studio 2017/Projects/MethodManipulatorDocs/MethodManipulatorDocs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "pJuJ1BlMZ69JcTq5cops+g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "0t5+M7SmUar8peKQxwLeHw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "xVlQaX7Tk85omoiWv3O+Ag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "1zuQXON1WyXyfcGZoY55hg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/MethodManipulationDocs.HookedMethod.Detour.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MethodManipulationDocs.HookedMethod.Detour.html",
+          "hash": "XB08+StPFYbE0gLaUD4mBg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/MethodManipulationDocs.HookedMethod.OriginalMethod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MethodManipulationDocs.HookedMethod.OriginalMethod.html",
+          "hash": "RkcmpAbTDY6oXXM/uMAGLA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/MethodManipulationDocs.HookedMethod.Parameters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MethodManipulationDocs.HookedMethod.Parameters.html",
+          "hash": "vmVHKMXAOebWVxnQp+86/A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/MethodManipulationDocs.HookedMethod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MethodManipulationDocs.HookedMethod.html",
+          "hash": "MT9hy1MkxxEfobN71u/t1Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/MethodManipulationDocs.MethodAnalyzer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MethodManipulationDocs.MethodAnalyzer.html",
+          "hash": "rmvFHi37Xk3cMtc7VPyHsQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MethodManipulationDocs.MethodInfoWithDef.CelesteResolveException.html",
+          "hash": "PVLbuRHzvoClMzmioEHWZw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/MethodManipulationDocs.MethodInfoWithDef.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MethodManipulationDocs.MethodInfoWithDef.html",
+          "hash": "J6kf569OAQfadQ0cB4xU7w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/MethodManipulationDocs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/MethodManipulationDocs.html",
+          "hash": "PzOtR/8m63Ol3hNPRKRmkw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "obj/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "4ek1uGwtlc3uNb4kl2hK5w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "frPdeW5hGroGiyexwMQIhg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot suppport incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
